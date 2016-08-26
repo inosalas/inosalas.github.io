@@ -1,0 +1,13 @@
+% Manual de html
+% Roberto Inostroza
+% Agosto, 2016
+
+Presentación
+============
+Este manual contiene el material del curso **aplicaciones modernas html** los temas analizados fueron:
+1. HTML Y DOM
+2. Librerías Javascript
+    * nodejs
+    * jquery
+    * jade
+    * pandoc   
